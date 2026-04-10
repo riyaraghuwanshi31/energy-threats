@@ -125,55 +125,6 @@ const wave = Math.sin(time * 2.5 + stretch * 8)
 
 ---
 
-## 🏗️ How It Was Created
-
-### Step 1: Setup UI
-
-* Fullscreen canvas + webcam video overlay
-* Dark futuristic UI with loading screen
-
----
-
-### Step 2: Integrate MediaPipe
-
-* Loaded via CDN:
-
-  ```html
-  @mediapipe/hands
-  @mediapipe/camera_utils
-  ```
-
----
-
-### Step 3: Process Hand Data
-
-* Extract landmarks
-* Store 2-hand data
-* Track fingertip indices
-
----
-
-### Step 4: Build Visual Engine
-
-* Canvas-based rendering system
-* Custom functions:
-
-  * `drawCrystal()`
-  * `drawThread()`
-  * `drawDot()`
-
----
-
-### Step 5: Add Interactivity
-
-* Detect:
-
-  * 0 hands → show instructions
-  * 1 hand → partial effect
-  * 2 hands → full energy system
-
----
-
 ## 📦 Installation & Setup
 
 ```bash
@@ -205,30 +156,6 @@ OR deploy using:
 
 ---
 
-## 🎥 Content Idea (for your audience 🔥)
-
-You can show:
-
-* “Turn your hands into energy ⚡”
-* “This is how AI sees your hands 🤯”
-* Before/after → normal vs energy mode
-
----
-
-## 💡 Future Improvements
-
-* 🎮 Gesture-based controls
-* 🎥 Record & download video
-* 🧠 Add pose detection (full body)
-* 🌌 Different energy themes
-
----
-
-## 🤝 Contributing
-
-Feel free to fork and improve this project!
-
----
 
 ## 📬 Connect
 
