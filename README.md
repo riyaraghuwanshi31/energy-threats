@@ -160,7 +160,9 @@ OR deploy using:
 ## 📬 Connect
 
 Created with ❤️ by **Riya Raghuwanshi**
+
 Follow  → elevate.n.thrive [ https://www.instagram.com/elevate.n.thrive/ ]
+
 Subscribe → Elevate N Thrive [ https://www.youtube.com/@ElevateandThrive-e2 ]
 
 ---
